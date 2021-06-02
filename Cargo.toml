@@ -1,5 +1,5 @@
 [package]
-name = "Server-in-Rust"
+name = "server_rust"
 version = "0.1.0"
 authors = ["aquiles <aquiles.cout@gmail.com>"]
 edition = "2018"
